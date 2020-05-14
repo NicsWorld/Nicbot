@@ -1,0 +1,6 @@
+// Express server with endpoints setup
+// on click fetch to get specific endpoint
+
+
+https://github.com/dgmd/johnny-five-express-sample/blob/master/server.js
+https://github.com/IainIsCreative/react-johnny-five-traffic-lights/blob/master/src/server/render-app.jsx
